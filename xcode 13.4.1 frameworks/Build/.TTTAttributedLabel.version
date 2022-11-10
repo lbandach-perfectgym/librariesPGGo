@@ -1,0 +1,17 @@
+{
+  "commitish" : "2.0.0",
+  "iOS" : [
+    {
+      "hash" : "93c22ab55e7bd788200872cf722e0e3bec27b2ee015a450163a47db4a484c3ae",
+      "name" : "TTTAttributedLabel",
+      "container" : "TTTAttributedLabel.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "00f659f40faf1471fcf272cb572652dd7394fbd43f800892fcbbcab077996777",
+      "name" : "TTTAttributedLabel",
+      "container" : "TTTAttributedLabel.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    }
+  ]
+}

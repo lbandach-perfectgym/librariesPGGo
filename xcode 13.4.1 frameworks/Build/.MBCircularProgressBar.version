@@ -1,0 +1,17 @@
+{
+  "commitish" : "9637b1a7bbde72b8fe3e6321f09a2bbecd8962cf",
+  "iOS" : [
+    {
+      "hash" : "84ea94c90cf86f3f5497c11f8c01c2c380cf889dca1576dab18c8ba7cd409a57",
+      "name" : "MBCircularProgressBar",
+      "container" : "MBCircularProgressBar.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "67d7525df79278fb2028f20387b9bb927c31d4e1960b2c05035d04d500b5823b",
+      "name" : "MBCircularProgressBar",
+      "container" : "MBCircularProgressBar.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    }
+  ]
+}
