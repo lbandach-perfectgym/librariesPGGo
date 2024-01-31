@@ -1,4 +1,0 @@
-framework module Difference {
-  header "Difference-Swift.h"
-  requires objc
-}

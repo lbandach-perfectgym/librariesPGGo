@@ -1,0 +1,253 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/user/Library/Caches/org.carthage.CarthageKit/DerivedData/15.2_15C500b/SVProgressHUD/2.3.1/Build/Products/Release-iphonesimulator/SVProgressHUD.framework/SVProgressHUD'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x54CA4, size: 0x8, addend: 0x0, symName: _SVProgressHUDVersionString, symObjAddr: 0x0, symBinAddr: 0xD460, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x54CD9, size: 0x8, addend: 0x0, symName: _SVProgressHUDVersionNumber, symObjAddr: 0x38, symBinAddr: 0xD498, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x54D16, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD sharedView]', symObjAddr: 0x0, symBinAddr: 0x2520, symSize: 0x63 }
+  - { offsetInCU: 0x41, offset: 0x54D30, size: 0x8, addend: 0x0, symName: _SVProgressHUDDidReceiveTouchEventNotification, symObjAddr: 0x9470, symBinAddr: 0x102D0, symSize: 0x0 }
+  - { offsetInCU: 0x61, offset: 0x54D50, size: 0x8, addend: 0x0, symName: _SVProgressHUDDidTouchDownInsideNotification, symObjAddr: 0x9478, symBinAddr: 0x102D8, symSize: 0x0 }
+  - { offsetInCU: 0x77, offset: 0x54D66, size: 0x8, addend: 0x0, symName: _SVProgressHUDWillDisappearNotification, symObjAddr: 0x9480, symBinAddr: 0x102E0, symSize: 0x0 }
+  - { offsetInCU: 0x8D, offset: 0x54D7C, size: 0x8, addend: 0x0, symName: _SVProgressHUDDidDisappearNotification, symObjAddr: 0x9488, symBinAddr: 0x102E8, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0x54D92, size: 0x8, addend: 0x0, symName: _SVProgressHUDWillAppearNotification, symObjAddr: 0x9490, symBinAddr: 0x102F0, symSize: 0x0 }
+  - { offsetInCU: 0xB9, offset: 0x54DA8, size: 0x8, addend: 0x0, symName: _SVProgressHUDDidAppearNotification, symObjAddr: 0x9498, symBinAddr: 0x102F8, symSize: 0x0 }
+  - { offsetInCU: 0xCF, offset: 0x54DBE, size: 0x8, addend: 0x0, symName: _SVProgressHUDStatusUserInfoKey, symObjAddr: 0x94A0, symBinAddr: 0x10300, symSize: 0x0 }
+  - { offsetInCU: 0xD9, offset: 0x54DC8, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD sharedView]', symObjAddr: 0x0, symBinAddr: 0x2520, symSize: 0x63 }
+  - { offsetInCU: 0x103, offset: 0x54DF2, size: 0x8, addend: 0x0, symName: _sharedView.once, symObjAddr: 0x2C438, symBinAddr: 0x13618, symSize: 0x0 }
+  - { offsetInCU: 0x119, offset: 0x54E08, size: 0x8, addend: 0x0, symName: _sharedView.sharedView, symObjAddr: 0x2C440, symBinAddr: 0x13620, symSize: 0x0 }
+  - { offsetInCU: 0x817, offset: 0x55506, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD updateHUDFrame]', symObjAddr: 0x1E1E, symBinAddr: 0x433E, symSize: 0xC6A }
+  - { offsetInCU: 0x113C, offset: 0x55E2B, size: 0x8, addend: 0x0, symName: '___27+[SVProgressHUD sharedView]_block_invoke', symObjAddr: 0x63, symBinAddr: 0x2583, symSize: 0xA3 }
+  - { offsetInCU: 0x11BB, offset: 0x55EAA, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD mainWindow]', symObjAddr: 0x106, symBinAddr: 0x2626, symSize: 0x304 }
+  - { offsetInCU: 0x13D7, offset: 0x560C6, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD imageBundle]', symObjAddr: 0x40A, symBinAddr: 0x292A, symSize: 0xAD }
+  - { offsetInCU: 0x147A, offset: 0x56169, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setStatus:]', symObjAddr: 0x4B7, symBinAddr: 0x29D7, symSize: 0x69 }
+  - { offsetInCU: 0x151A, offset: 0x56209, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setDefaultStyle:]', symObjAddr: 0x520, symBinAddr: 0x2A40, symSize: 0x4C }
+  - { offsetInCU: 0x1591, offset: 0x56280, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setDefaultMaskType:]', symObjAddr: 0x56C, symBinAddr: 0x2A8C, symSize: 0x4C }
+  - { offsetInCU: 0x1608, offset: 0x562F7, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setDefaultAnimationType:]', symObjAddr: 0x5B8, symBinAddr: 0x2AD8, symSize: 0x4C }
+  - { offsetInCU: 0x167F, offset: 0x5636E, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setContainerView:]', symObjAddr: 0x604, symBinAddr: 0x2B24, symSize: 0x69 }
+  - { offsetInCU: 0x171F, offset: 0x5640E, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setMinimumSize:]', symObjAddr: 0x66D, symBinAddr: 0x2B8D, symSize: 0x59 }
+  - { offsetInCU: 0x17A1, offset: 0x56490, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setRingThickness:]', symObjAddr: 0x6C6, symBinAddr: 0x2BE6, symSize: 0x4F }
+  - { offsetInCU: 0x181A, offset: 0x56509, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setRingRadius:]', symObjAddr: 0x715, symBinAddr: 0x2C35, symSize: 0x4F }
+  - { offsetInCU: 0x1893, offset: 0x56582, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setRingNoTextRadius:]', symObjAddr: 0x764, symBinAddr: 0x2C84, symSize: 0x4F }
+  - { offsetInCU: 0x190C, offset: 0x565FB, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setCornerRadius:]', symObjAddr: 0x7B3, symBinAddr: 0x2CD3, symSize: 0x4F }
+  - { offsetInCU: 0x1985, offset: 0x56674, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setBorderColor:]', symObjAddr: 0x802, symBinAddr: 0x2D22, symSize: 0xB1 }
+  - { offsetInCU: 0x1A48, offset: 0x56737, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setBorderWidth:]', symObjAddr: 0x8B3, symBinAddr: 0x2DD3, symSize: 0x99 }
+  - { offsetInCU: 0x1B01, offset: 0x567F0, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setFont:]', symObjAddr: 0x94C, symBinAddr: 0x2E6C, symSize: 0x69 }
+  - { offsetInCU: 0x1BA1, offset: 0x56890, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setForegroundColor:]', symObjAddr: 0x9B5, symBinAddr: 0x2ED5, symSize: 0x84 }
+  - { offsetInCU: 0x1C5B, offset: 0x5694A, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setForegroundImageColor:]', symObjAddr: 0xA39, symBinAddr: 0x2F59, symSize: 0x84 }
+  - { offsetInCU: 0x1D15, offset: 0x56A04, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setBackgroundColor:]', symObjAddr: 0xABD, symBinAddr: 0x2FDD, symSize: 0x84 }
+  - { offsetInCU: 0x1DCF, offset: 0x56ABE, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setHudViewCustomBlurEffect:]', symObjAddr: 0xB41, symBinAddr: 0x3061, symSize: 0x84 }
+  - { offsetInCU: 0x1E89, offset: 0x56B78, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setBackgroundLayerColor:]', symObjAddr: 0xBC5, symBinAddr: 0x30E5, symSize: 0x69 }
+  - { offsetInCU: 0x1F29, offset: 0x56C18, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setImageViewSize:]', symObjAddr: 0xC2E, symBinAddr: 0x314E, symSize: 0x59 }
+  - { offsetInCU: 0x1FAB, offset: 0x56C9A, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setShouldTintImages:]', symObjAddr: 0xC87, symBinAddr: 0x31A7, symSize: 0x4A }
+  - { offsetInCU: 0x2022, offset: 0x56D11, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setInfoImage:]', symObjAddr: 0xCD1, symBinAddr: 0x31F1, symSize: 0x69 }
+  - { offsetInCU: 0x20C2, offset: 0x56DB1, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setSuccessImage:]', symObjAddr: 0xD3A, symBinAddr: 0x325A, symSize: 0x69 }
+  - { offsetInCU: 0x2162, offset: 0x56E51, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setErrorImage:]', symObjAddr: 0xDA3, symBinAddr: 0x32C3, symSize: 0x69 }
+  - { offsetInCU: 0x2202, offset: 0x56EF1, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setViewForExtension:]', symObjAddr: 0xE0C, symBinAddr: 0x332C, symSize: 0x69 }
+  - { offsetInCU: 0x22A2, offset: 0x56F91, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setGraceTimeInterval:]', symObjAddr: 0xE75, symBinAddr: 0x3395, symSize: 0x4F }
+  - { offsetInCU: 0x231B, offset: 0x5700A, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setMinimumDismissTimeInterval:]', symObjAddr: 0xEC4, symBinAddr: 0x33E4, symSize: 0x4F }
+  - { offsetInCU: 0x2394, offset: 0x57083, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setMaximumDismissTimeInterval:]', symObjAddr: 0xF13, symBinAddr: 0x3433, symSize: 0x4F }
+  - { offsetInCU: 0x240D, offset: 0x570FC, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setFadeInAnimationDuration:]', symObjAddr: 0xF62, symBinAddr: 0x3482, symSize: 0x4F }
+  - { offsetInCU: 0x2486, offset: 0x57175, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setFadeOutAnimationDuration:]', symObjAddr: 0xFB1, symBinAddr: 0x34D1, symSize: 0x4F }
+  - { offsetInCU: 0x24FF, offset: 0x571EE, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setMaxSupportedWindowLevel:]', symObjAddr: 0x1000, symBinAddr: 0x3520, symSize: 0x4F }
+  - { offsetInCU: 0x2578, offset: 0x57267, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setHapticsEnabled:]', symObjAddr: 0x104F, symBinAddr: 0x356F, symSize: 0x4A }
+  - { offsetInCU: 0x25EF, offset: 0x572DE, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setMotionEffectEnabled:]', symObjAddr: 0x1099, symBinAddr: 0x35B9, symSize: 0x4A }
+  - { offsetInCU: 0x2666, offset: 0x57355, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD show]', symObjAddr: 0x10E3, symBinAddr: 0x3603, symSize: 0x14 }
+  - { offsetInCU: 0x26B2, offset: 0x573A1, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showWithStatus:]', symObjAddr: 0x10F7, symBinAddr: 0x3617, symSize: 0x1A }
+  - { offsetInCU: 0x270E, offset: 0x573FD, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showProgress:]', symObjAddr: 0x1111, symBinAddr: 0x3631, symSize: 0x14 }
+  - { offsetInCU: 0x2770, offset: 0x5745F, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showProgress:status:]', symObjAddr: 0x1125, symBinAddr: 0x3645, symSize: 0x7B }
+  - { offsetInCU: 0x282C, offset: 0x5751B, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showInfoWithStatus:]', symObjAddr: 0x11A0, symBinAddr: 0x36C0, symSize: 0xD2 }
+  - { offsetInCU: 0x291F, offset: 0x5760E, size: 0x8, addend: 0x0, symName: '___36+[SVProgressHUD showInfoWithStatus:]_block_invoke', symObjAddr: 0x1272, symBinAddr: 0x3792, symSize: 0x73 }
+  - { offsetInCU: 0x29B4, offset: 0x576A3, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showSuccessWithStatus:]', symObjAddr: 0x12E5, symBinAddr: 0x3805, symSize: 0xD2 }
+  - { offsetInCU: 0x2A94, offset: 0x57783, size: 0x8, addend: 0x0, symName: '___39+[SVProgressHUD showSuccessWithStatus:]_block_invoke', symObjAddr: 0x13B7, symBinAddr: 0x38D7, symSize: 0x70 }
+  - { offsetInCU: 0x2B29, offset: 0x57818, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showErrorWithStatus:]', symObjAddr: 0x1427, symBinAddr: 0x3947, symSize: 0xD2 }
+  - { offsetInCU: 0x2C09, offset: 0x578F8, size: 0x8, addend: 0x0, symName: '___37+[SVProgressHUD showErrorWithStatus:]_block_invoke', symObjAddr: 0x14F9, symBinAddr: 0x3A19, symSize: 0x73 }
+  - { offsetInCU: 0x2C9E, offset: 0x5798D, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD showImage:status:]', symObjAddr: 0x156C, symBinAddr: 0x3A8C, symSize: 0xA5 }
+  - { offsetInCU: 0x2DBC, offset: 0x57AAB, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD popActivity]', symObjAddr: 0x1611, symBinAddr: 0x3B31, symSize: 0xF8 }
+  - { offsetInCU: 0x2ECC, offset: 0x57BBB, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD dismiss]', symObjAddr: 0x1709, symBinAddr: 0x3C29, symSize: 0x17 }
+  - { offsetInCU: 0x2F19, offset: 0x57C08, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD dismissWithCompletion:]', symObjAddr: 0x1720, symBinAddr: 0x3C40, symSize: 0x15 }
+  - { offsetInCU: 0x2F77, offset: 0x57C66, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD dismissWithDelay:]', symObjAddr: 0x1735, symBinAddr: 0x3C55, symSize: 0x14 }
+  - { offsetInCU: 0x2FDB, offset: 0x57CCA, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD dismissWithDelay:completion:]', symObjAddr: 0x1749, symBinAddr: 0x3C69, symSize: 0x7B }
+  - { offsetInCU: 0x3097, offset: 0x57D86, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD setOffsetFromCenter:]', symObjAddr: 0x17C4, symBinAddr: 0x3CE4, symSize: 0x59 }
+  - { offsetInCU: 0x311B, offset: 0x57E0A, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD resetOffsetFromCenter]', symObjAddr: 0x181D, symBinAddr: 0x3D3D, symSize: 0x22 }
+  - { offsetInCU: 0x3162, offset: 0x57E51, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD initWithFrame:]', symObjAddr: 0x183F, symBinAddr: 0x3D5F, symSize: 0x5DF }
+  - { offsetInCU: 0x3530, offset: 0x5821F, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD updateMotionEffectForOrientation:]', symObjAddr: 0x2A88, symBinAddr: 0x4FA8, symSize: 0x26 }
+  - { offsetInCU: 0x35D4, offset: 0x582C3, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD updateMotionEffectForXMotionEffectType:yMotionEffectType:]', symObjAddr: 0x2AAE, symBinAddr: 0x4FCE, symSize: 0x27F }
+  - { offsetInCU: 0x3842, offset: 0x58531, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD updateViewHierarchy]', symObjAddr: 0x2D2D, symBinAddr: 0x524D, symSize: 0x1CF }
+  - { offsetInCU: 0x39B2, offset: 0x586A1, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setStatus:]', symObjAddr: 0x2EFC, symBinAddr: 0x541C, symSize: 0xCA }
+  - { offsetInCU: 0x3AB0, offset: 0x5879F, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setGraceTimer:]', symObjAddr: 0x2FC6, symBinAddr: 0x54E6, symSize: 0x6F }
+  - { offsetInCU: 0x3B36, offset: 0x58825, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setFadeOutTimer:]', symObjAddr: 0x3035, symBinAddr: 0x5555, symSize: 0x6F }
+  - { offsetInCU: 0x3BBC, offset: 0x588AB, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD registerNotifications]', symObjAddr: 0x30A4, symBinAddr: 0x55C4, symSize: 0x1C1 }
+  - { offsetInCU: 0x3D99, offset: 0x58A88, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD notificationUserInfo]', symObjAddr: 0x3265, symBinAddr: 0x5785, symSize: 0x113 }
+  - { offsetInCU: 0x3E60, offset: 0x58B4F, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD positionHUD:]', symObjAddr: 0x3378, symBinAddr: 0x5898, symSize: 0x456 }
+  - { offsetInCU: 0x41B2, offset: 0x58EA1, size: 0x8, addend: 0x0, symName: '___29-[SVProgressHUD positionHUD:]_block_invoke', symObjAddr: 0x37CE, symBinAddr: 0x5CEE, symSize: 0x61 }
+  - { offsetInCU: 0x424E, offset: 0x58F3D, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x382F, symBinAddr: 0x5D4F, symSize: 0xF }
+  - { offsetInCU: 0x4281, offset: 0x58F70, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x383E, symBinAddr: 0x5D5E, symSize: 0xF }
+  - { offsetInCU: 0x42AC, offset: 0x58F9B, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD moveToPoint:rotateAngle:]', symObjAddr: 0x384D, symBinAddr: 0x5D6D, symSize: 0x1DB }
+  - { offsetInCU: 0x4496, offset: 0x59185, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD controlViewDidReceiveTouchEvent:forEvent:]', symObjAddr: 0x3A28, symBinAddr: 0x5F48, symSize: 0x1D4 }
+  - { offsetInCU: 0x4698, offset: 0x59387, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD showProgress:status:]', symObjAddr: 0x3BFC, symBinAddr: 0x611C, symSize: 0x113 }
+  - { offsetInCU: 0x4783, offset: 0x59472, size: 0x8, addend: 0x0, symName: '___37-[SVProgressHUD showProgress:status:]_block_invoke', symObjAddr: 0x3D0F, symBinAddr: 0x622F, symSize: 0x664 }
+  - { offsetInCU: 0x4DA2, offset: 0x59A91, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48w, symObjAddr: 0x4373, symBinAddr: 0x6893, symSize: 0x42 }
+  - { offsetInCU: 0x4DE3, offset: 0x59AD2, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48w, symObjAddr: 0x43B5, symBinAddr: 0x68D5, symSize: 0x2E }
+  - { offsetInCU: 0x4E1A, offset: 0x59B09, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD showImage:status:duration:]', symObjAddr: 0x43E3, symBinAddr: 0x6903, symSize: 0x143 }
+  - { offsetInCU: 0x4F60, offset: 0x59C4F, size: 0x8, addend: 0x0, symName: '___43-[SVProgressHUD showImage:status:duration:]_block_invoke', symObjAddr: 0x4526, symBinAddr: 0x6A46, symSize: 0x41B }
+  - { offsetInCU: 0x5360, offset: 0x5A04F, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56w, symObjAddr: 0x4941, symBinAddr: 0x6E61, symSize: 0x49 }
+  - { offsetInCU: 0x53AD, offset: 0x5A09C, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56w, symObjAddr: 0x498A, symBinAddr: 0x6EAA, symSize: 0x35 }
+  - { offsetInCU: 0x53F0, offset: 0x5A0DF, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD fadeIn:]', symObjAddr: 0x49BF, symBinAddr: 0x6EDF, symSize: 0x8EE }
+  - { offsetInCU: 0x5B13, offset: 0x5A802, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x52AD, symBinAddr: 0x77CD, symSize: 0x1D }
+  - { offsetInCU: 0x5B3C, offset: 0x5A82B, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x52CA, symBinAddr: 0x77EA, symSize: 0xF }
+  - { offsetInCU: 0x5B67, offset: 0x5A856, size: 0x8, addend: 0x0, symName: '___24-[SVProgressHUD fadeIn:]_block_invoke', symObjAddr: 0x52D9, symBinAddr: 0x77F9, symSize: 0x80 }
+  - { offsetInCU: 0x5BE9, offset: 0x5A8D8, size: 0x8, addend: 0x0, symName: '___24-[SVProgressHUD fadeIn:]_block_invoke.421', symObjAddr: 0x5359, symBinAddr: 0x7879, symSize: 0x22B }
+  - { offsetInCU: 0x5DCD, offset: 0x5AABC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x5584, symBinAddr: 0x7AA4, symSize: 0x25 }
+  - { offsetInCU: 0x5E0E, offset: 0x5AAFD, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x55A9, symBinAddr: 0x7AC9, symSize: 0x25 }
+  - { offsetInCU: 0x5E45, offset: 0x5AB34, size: 0x8, addend: 0x0, symName: '___24-[SVProgressHUD fadeIn:]_block_invoke.426', symObjAddr: 0x55CE, symBinAddr: 0x7AEE, symSize: 0x14 }
+  - { offsetInCU: 0x5E8F, offset: 0x5AB7E, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32r, symObjAddr: 0x55E2, symBinAddr: 0x7B02, symSize: 0x17 }
+  - { offsetInCU: 0x5EB8, offset: 0x5ABA7, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32r, symObjAddr: 0x55F9, symBinAddr: 0x7B19, symSize: 0x13 }
+  - { offsetInCU: 0x5ED7, offset: 0x5ABC6, size: 0x8, addend: 0x0, symName: '___24-[SVProgressHUD fadeIn:]_block_invoke.427', symObjAddr: 0x560C, symBinAddr: 0x7B2C, symSize: 0x14 }
+  - { offsetInCU: 0x5F2E, offset: 0x5AC1D, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD dismiss]', symObjAddr: 0x5620, symBinAddr: 0x7B40, symSize: 0x17 }
+  - { offsetInCU: 0x5F7B, offset: 0x5AC6A, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD dismissWithDelay:completion:]', symObjAddr: 0x5637, symBinAddr: 0x7B57, symSize: 0x113 }
+  - { offsetInCU: 0x6066, offset: 0x5AD55, size: 0x8, addend: 0x0, symName: '___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke', symObjAddr: 0x574A, symBinAddr: 0x7C6A, symSize: 0x2F9 }
+  - { offsetInCU: 0x62D4, offset: 0x5AFC3, size: 0x8, addend: 0x0, symName: '___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_2', symObjAddr: 0x5A43, symBinAddr: 0x7F63, symSize: 0x10E }
+  - { offsetInCU: 0x6380, offset: 0x5B06F, size: 0x8, addend: 0x0, symName: '___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_3', symObjAddr: 0x5B51, symBinAddr: 0x8071, symSize: 0x23B }
+  - { offsetInCU: 0x65E7, offset: 0x5B2D6, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x5D8C, symBinAddr: 0x82AC, symSize: 0x44 }
+  - { offsetInCU: 0x6628, offset: 0x5B317, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x5DD0, symBinAddr: 0x82F0, symSize: 0x2C }
+  - { offsetInCU: 0x666B, offset: 0x5B35A, size: 0x8, addend: 0x0, symName: '___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.439', symObjAddr: 0x5DFC, symBinAddr: 0x831C, symSize: 0x104 }
+  - { offsetInCU: 0x6748, offset: 0x5B437, size: 0x8, addend: 0x0, symName: '___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_2.442', symObjAddr: 0x5F00, symBinAddr: 0x8420, symSize: 0x14 }
+  - { offsetInCU: 0x6792, offset: 0x5B481, size: 0x8, addend: 0x0, symName: '___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_3.443', symObjAddr: 0x5F14, symBinAddr: 0x8434, symSize: 0x14 }
+  - { offsetInCU: 0x67E9, offset: 0x5B4D8, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r48r, symObjAddr: 0x5F28, symBinAddr: 0x8448, symSize: 0x42 }
+  - { offsetInCU: 0x681E, offset: 0x5B50D, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r48r, symObjAddr: 0x5F6A, symBinAddr: 0x848A, symSize: 0x35 }
+  - { offsetInCU: 0x6849, offset: 0x5B538, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48w, symObjAddr: 0x5F9F, symBinAddr: 0x84BF, symSize: 0x40 }
+  - { offsetInCU: 0x687E, offset: 0x5B56D, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD indefiniteAnimatedView]', symObjAddr: 0x5FDF, symBinAddr: 0x84FF, symSize: 0x2A5 }
+  - { offsetInCU: 0x6ACA, offset: 0x5B7B9, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD ringView]', symObjAddr: 0x6284, symBinAddr: 0x87A4, symSize: 0x13D }
+  - { offsetInCU: 0x6BC6, offset: 0x5B8B5, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD backgroundRingView]', symObjAddr: 0x63C1, symBinAddr: 0x88E1, symSize: 0x188 }
+  - { offsetInCU: 0x6CEE, offset: 0x5B9DD, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD cancelRingLayerAnimation]', symObjAddr: 0x6549, symBinAddr: 0x8A69, symSize: 0x132 }
+  - { offsetInCU: 0x6E2D, offset: 0x5BB1C, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD cancelIndefiniteAnimatedViewAnimation]', symObjAddr: 0x667B, symBinAddr: 0x8B9B, symSize: 0xB7 }
+  - { offsetInCU: 0x6EE5, offset: 0x5BBD4, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD isVisible]', symObjAddr: 0x6732, symBinAddr: 0x8C52, symSize: 0x77 }
+  - { offsetInCU: 0x6F69, offset: 0x5BC58, size: 0x8, addend: 0x0, symName: '+[SVProgressHUD displayDurationForString:]', symObjAddr: 0x67A9, symBinAddr: 0x8CC9, symSize: 0xE4 }
+  - { offsetInCU: 0x7094, offset: 0x5BD83, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD foregroundColorForStyle]', symObjAddr: 0x688D, symBinAddr: 0x8DAD, symSize: 0x63 }
+  - { offsetInCU: 0x70FE, offset: 0x5BDED, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD foregroundImageColorForStyle]', symObjAddr: 0x68F0, symBinAddr: 0x8E10, symSize: 0x63 }
+  - { offsetInCU: 0x715A, offset: 0x5BE49, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD backgroundColorForStyle]', symObjAddr: 0x6953, symBinAddr: 0x8E73, symSize: 0x63 }
+  - { offsetInCU: 0x71C4, offset: 0x5BEB3, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD controlView]', symObjAddr: 0x69B6, symBinAddr: 0x8ED6, symSize: 0x14D }
+  - { offsetInCU: 0x72AC, offset: 0x5BF9B, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD backgroundView]', symObjAddr: 0x6B03, symBinAddr: 0x9023, symSize: 0x382 }
+  - { offsetInCU: 0x74F4, offset: 0x5C1E3, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD hudView]', symObjAddr: 0x6E85, symBinAddr: 0x93A5, symSize: 0x131 }
+  - { offsetInCU: 0x7601, offset: 0x5C2F0, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD statusLabel]', symObjAddr: 0x6FB6, symBinAddr: 0x94D6, symSize: 0x208 }
+  - { offsetInCU: 0x7811, offset: 0x5C500, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD imageView]', symObjAddr: 0x71BE, symBinAddr: 0x96DE, symSize: 0x17E }
+  - { offsetInCU: 0x7925, offset: 0x5C614, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD defaultStyleResolvingAutomatic]', symObjAddr: 0x733C, symBinAddr: 0x985C, symSize: 0x78 }
+  - { offsetInCU: 0x79C0, offset: 0x5C6AF, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD visibleKeyboardHeight]', symObjAddr: 0x73B4, symBinAddr: 0x98D4, symSize: 0x718 }
+  - { offsetInCU: 0x7DF2, offset: 0x5CAE1, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD frontWindow]', symObjAddr: 0x7ACC, symBinAddr: 0x9FEC, symSize: 0x34D }
+  - { offsetInCU: 0x8022, offset: 0x5CD11, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD fadeInEffects]', symObjAddr: 0x7E19, symBinAddr: 0xA339, symSize: 0x329 }
+  - { offsetInCU: 0x832C, offset: 0x5D01B, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD fadeOutEffects]', symObjAddr: 0x8142, symBinAddr: 0xA662, symSize: 0x1CB }
+  - { offsetInCU: 0x8534, offset: 0x5D223, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD hapticGenerator]', symObjAddr: 0x830D, symBinAddr: 0xA82D, symSize: 0x6F }
+  - { offsetInCU: 0x85A5, offset: 0x5D294, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setDefaultStyle:]', symObjAddr: 0x837C, symBinAddr: 0xA89C, symSize: 0x1E }
+  - { offsetInCU: 0x85E6, offset: 0x5D2D5, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setDefaultMaskType:]', symObjAddr: 0x839A, symBinAddr: 0xA8BA, symSize: 0x1E }
+  - { offsetInCU: 0x8627, offset: 0x5D316, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setDefaultAnimationType:]', symObjAddr: 0x83B8, symBinAddr: 0xA8D8, symSize: 0x1E }
+  - { offsetInCU: 0x8668, offset: 0x5D357, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setContainerView:]', symObjAddr: 0x83D6, symBinAddr: 0xA8F6, symSize: 0x4F }
+  - { offsetInCU: 0x86D6, offset: 0x5D3C5, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setMinimumSize:]', symObjAddr: 0x8425, symBinAddr: 0xA945, symSize: 0x25 }
+  - { offsetInCU: 0x8719, offset: 0x5D408, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setRingThickness:]', symObjAddr: 0x844A, symBinAddr: 0xA96A, symSize: 0x1F }
+  - { offsetInCU: 0x875A, offset: 0x5D449, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setRingRadius:]', symObjAddr: 0x8469, symBinAddr: 0xA989, symSize: 0x1F }
+  - { offsetInCU: 0x879B, offset: 0x5D48A, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setRingNoTextRadius:]', symObjAddr: 0x8488, symBinAddr: 0xA9A8, symSize: 0x1F }
+  - { offsetInCU: 0x87DC, offset: 0x5D4CB, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setCornerRadius:]', symObjAddr: 0x84A7, symBinAddr: 0xA9C7, symSize: 0x1F }
+  - { offsetInCU: 0x881D, offset: 0x5D50C, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setFont:]', symObjAddr: 0x84C6, symBinAddr: 0xA9E6, symSize: 0x4F }
+  - { offsetInCU: 0x888B, offset: 0x5D57A, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setForegroundColor:]', symObjAddr: 0x8515, symBinAddr: 0xAA35, symSize: 0x4F }
+  - { offsetInCU: 0x88F9, offset: 0x5D5E8, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setForegroundImageColor:]', symObjAddr: 0x8564, symBinAddr: 0xAA84, symSize: 0x4F }
+  - { offsetInCU: 0x8967, offset: 0x5D656, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setBackgroundColor:]', symObjAddr: 0x85B3, symBinAddr: 0xAAD3, symSize: 0x4F }
+  - { offsetInCU: 0x89D5, offset: 0x5D6C4, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setBackgroundLayerColor:]', symObjAddr: 0x8602, symBinAddr: 0xAB22, symSize: 0x4F }
+  - { offsetInCU: 0x8A43, offset: 0x5D732, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setShouldTintImages:]', symObjAddr: 0x8651, symBinAddr: 0xAB71, symSize: 0x1D }
+  - { offsetInCU: 0x8A86, offset: 0x5D775, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setInfoImage:]', symObjAddr: 0x866E, symBinAddr: 0xAB8E, symSize: 0x4F }
+  - { offsetInCU: 0x8AF4, offset: 0x5D7E3, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setSuccessImage:]', symObjAddr: 0x86BD, symBinAddr: 0xABDD, symSize: 0x4F }
+  - { offsetInCU: 0x8B62, offset: 0x5D851, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setErrorImage:]', symObjAddr: 0x870C, symBinAddr: 0xAC2C, symSize: 0x4F }
+  - { offsetInCU: 0x8BD0, offset: 0x5D8BF, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setViewForExtension:]', symObjAddr: 0x875B, symBinAddr: 0xAC7B, symSize: 0x4F }
+  - { offsetInCU: 0x8C3E, offset: 0x5D92D, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setOffsetFromCenter:]', symObjAddr: 0x87AA, symBinAddr: 0xACCA, symSize: 0x25 }
+  - { offsetInCU: 0x8C81, offset: 0x5D970, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setMinimumDismissTimeInterval:]', symObjAddr: 0x87CF, symBinAddr: 0xACEF, symSize: 0x1F }
+  - { offsetInCU: 0x8CC2, offset: 0x5D9B1, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setFadeInAnimationDuration:]', symObjAddr: 0x87EE, symBinAddr: 0xAD0E, symSize: 0x1F }
+  - { offsetInCU: 0x8D03, offset: 0x5D9F2, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setFadeOutAnimationDuration:]', symObjAddr: 0x880D, symBinAddr: 0xAD2D, symSize: 0x1F }
+  - { offsetInCU: 0x8D44, offset: 0x5DA33, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setMaxSupportedWindowLevel:]', symObjAddr: 0x882C, symBinAddr: 0xAD4C, symSize: 0x1F }
+  - { offsetInCU: 0x8D85, offset: 0x5DA74, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD defaultStyle]', symObjAddr: 0x884B, symBinAddr: 0xAD6B, symSize: 0x11 }
+  - { offsetInCU: 0x8DBA, offset: 0x5DAA9, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD defaultMaskType]', symObjAddr: 0x885C, symBinAddr: 0xAD7C, symSize: 0x11 }
+  - { offsetInCU: 0x8DEF, offset: 0x5DADE, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD defaultAnimationType]', symObjAddr: 0x886D, symBinAddr: 0xAD8D, symSize: 0x11 }
+  - { offsetInCU: 0x8E24, offset: 0x5DB13, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD containerView]', symObjAddr: 0x887E, symBinAddr: 0xAD9E, symSize: 0x11 }
+  - { offsetInCU: 0x8E59, offset: 0x5DB48, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD minimumSize]', symObjAddr: 0x888F, symBinAddr: 0xADAF, symSize: 0x18 }
+  - { offsetInCU: 0x8E8E, offset: 0x5DB7D, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD ringThickness]', symObjAddr: 0x88A7, symBinAddr: 0xADC7, symSize: 0x12 }
+  - { offsetInCU: 0x8EC3, offset: 0x5DBB2, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD ringRadius]', symObjAddr: 0x88B9, symBinAddr: 0xADD9, symSize: 0x12 }
+  - { offsetInCU: 0x8EF8, offset: 0x5DBE7, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD ringNoTextRadius]', symObjAddr: 0x88CB, symBinAddr: 0xADEB, symSize: 0x12 }
+  - { offsetInCU: 0x8F2D, offset: 0x5DC1C, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD cornerRadius]', symObjAddr: 0x88DD, symBinAddr: 0xADFD, symSize: 0x12 }
+  - { offsetInCU: 0x8F62, offset: 0x5DC51, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD font]', symObjAddr: 0x88EF, symBinAddr: 0xAE0F, symSize: 0x11 }
+  - { offsetInCU: 0x8F97, offset: 0x5DC86, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD backgroundColor]', symObjAddr: 0x8900, symBinAddr: 0xAE20, symSize: 0x11 }
+  - { offsetInCU: 0x8FCC, offset: 0x5DCBB, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD foregroundColor]', symObjAddr: 0x8911, symBinAddr: 0xAE31, symSize: 0x11 }
+  - { offsetInCU: 0x9001, offset: 0x5DCF0, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD foregroundImageColor]', symObjAddr: 0x8922, symBinAddr: 0xAE42, symSize: 0x11 }
+  - { offsetInCU: 0x9036, offset: 0x5DD25, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD backgroundLayerColor]', symObjAddr: 0x8933, symBinAddr: 0xAE53, symSize: 0x11 }
+  - { offsetInCU: 0x906B, offset: 0x5DD5A, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD imageViewSize]', symObjAddr: 0x8944, symBinAddr: 0xAE64, symSize: 0x18 }
+  - { offsetInCU: 0x90A0, offset: 0x5DD8F, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setImageViewSize:]', symObjAddr: 0x895C, symBinAddr: 0xAE7C, symSize: 0x18 }
+  - { offsetInCU: 0x90DF, offset: 0x5DDCE, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD shouldTintImages]', symObjAddr: 0x8974, symBinAddr: 0xAE94, symSize: 0x10 }
+  - { offsetInCU: 0x9114, offset: 0x5DE03, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD infoImage]', symObjAddr: 0x8984, symBinAddr: 0xAEA4, symSize: 0x11 }
+  - { offsetInCU: 0x9149, offset: 0x5DE38, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD successImage]', symObjAddr: 0x8995, symBinAddr: 0xAEB5, symSize: 0x11 }
+  - { offsetInCU: 0x917E, offset: 0x5DE6D, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD errorImage]', symObjAddr: 0x89A6, symBinAddr: 0xAEC6, symSize: 0x11 }
+  - { offsetInCU: 0x91B3, offset: 0x5DEA2, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD viewForExtension]', symObjAddr: 0x89B7, symBinAddr: 0xAED7, symSize: 0x11 }
+  - { offsetInCU: 0x91E8, offset: 0x5DED7, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD graceTimeInterval]', symObjAddr: 0x89C8, symBinAddr: 0xAEE8, symSize: 0x12 }
+  - { offsetInCU: 0x921D, offset: 0x5DF0C, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setGraceTimeInterval:]', symObjAddr: 0x89DA, symBinAddr: 0xAEFA, symSize: 0x12 }
+  - { offsetInCU: 0x925A, offset: 0x5DF49, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD minimumDismissTimeInterval]', symObjAddr: 0x89EC, symBinAddr: 0xAF0C, symSize: 0x12 }
+  - { offsetInCU: 0x928F, offset: 0x5DF7E, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD maximumDismissTimeInterval]', symObjAddr: 0x89FE, symBinAddr: 0xAF1E, symSize: 0x12 }
+  - { offsetInCU: 0x92C4, offset: 0x5DFB3, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setMaximumDismissTimeInterval:]', symObjAddr: 0x8A10, symBinAddr: 0xAF30, symSize: 0x12 }
+  - { offsetInCU: 0x9301, offset: 0x5DFF0, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD offsetFromCenter]', symObjAddr: 0x8A22, symBinAddr: 0xAF42, symSize: 0x18 }
+  - { offsetInCU: 0x9336, offset: 0x5E025, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD fadeInAnimationDuration]', symObjAddr: 0x8A3A, symBinAddr: 0xAF5A, symSize: 0x12 }
+  - { offsetInCU: 0x936B, offset: 0x5E05A, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD fadeOutAnimationDuration]', symObjAddr: 0x8A4C, symBinAddr: 0xAF6C, symSize: 0x12 }
+  - { offsetInCU: 0x93A0, offset: 0x5E08F, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD maxSupportedWindowLevel]', symObjAddr: 0x8A5E, symBinAddr: 0xAF7E, symSize: 0x12 }
+  - { offsetInCU: 0x93D5, offset: 0x5E0C4, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD hapticsEnabled]', symObjAddr: 0x8A70, symBinAddr: 0xAF90, symSize: 0x10 }
+  - { offsetInCU: 0x940A, offset: 0x5E0F9, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setHapticsEnabled:]', symObjAddr: 0x8A80, symBinAddr: 0xAFA0, symSize: 0x10 }
+  - { offsetInCU: 0x9447, offset: 0x5E136, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD motionEffectEnabled]', symObjAddr: 0x8A90, symBinAddr: 0xAFB0, symSize: 0x10 }
+  - { offsetInCU: 0x947C, offset: 0x5E16B, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setMotionEffectEnabled:]', symObjAddr: 0x8AA0, symBinAddr: 0xAFC0, symSize: 0x10 }
+  - { offsetInCU: 0x94B9, offset: 0x5E1A8, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD graceTimer]', symObjAddr: 0x8AB0, symBinAddr: 0xAFD0, symSize: 0x11 }
+  - { offsetInCU: 0x94EE, offset: 0x5E1DD, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD fadeOutTimer]', symObjAddr: 0x8AC1, symBinAddr: 0xAFE1, symSize: 0x11 }
+  - { offsetInCU: 0x9523, offset: 0x5E212, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setControlView:]', symObjAddr: 0x8AD2, symBinAddr: 0xAFF2, symSize: 0x14 }
+  - { offsetInCU: 0x9562, offset: 0x5E251, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setBackgroundView:]', symObjAddr: 0x8AE6, symBinAddr: 0xB006, symSize: 0x14 }
+  - { offsetInCU: 0x95A1, offset: 0x5E290, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD backgroundRadialGradientLayer]', symObjAddr: 0x8AFA, symBinAddr: 0xB01A, symSize: 0x11 }
+  - { offsetInCU: 0x95D6, offset: 0x5E2C5, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setBackgroundRadialGradientLayer:]', symObjAddr: 0x8B0B, symBinAddr: 0xB02B, symSize: 0x14 }
+  - { offsetInCU: 0x9615, offset: 0x5E304, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setHudView:]', symObjAddr: 0x8B1F, symBinAddr: 0xB03F, symSize: 0x14 }
+  - { offsetInCU: 0x9654, offset: 0x5E343, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD hudViewCustomBlurEffect]', symObjAddr: 0x8B33, symBinAddr: 0xB053, symSize: 0x11 }
+  - { offsetInCU: 0x9689, offset: 0x5E378, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setHudViewCustomBlurEffect:]', symObjAddr: 0x8B44, symBinAddr: 0xB064, symSize: 0x14 }
+  - { offsetInCU: 0x96C8, offset: 0x5E3B7, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setStatusLabel:]', symObjAddr: 0x8B58, symBinAddr: 0xB078, symSize: 0x14 }
+  - { offsetInCU: 0x9707, offset: 0x5E3F6, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setImageView:]', symObjAddr: 0x8B6C, symBinAddr: 0xB08C, symSize: 0x14 }
+  - { offsetInCU: 0x9746, offset: 0x5E435, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setIndefiniteAnimatedView:]', symObjAddr: 0x8B80, symBinAddr: 0xB0A0, symSize: 0x14 }
+  - { offsetInCU: 0x9785, offset: 0x5E474, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setRingView:]', symObjAddr: 0x8B94, symBinAddr: 0xB0B4, symSize: 0x14 }
+  - { offsetInCU: 0x97C4, offset: 0x5E4B3, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setBackgroundRingView:]', symObjAddr: 0x8BA8, symBinAddr: 0xB0C8, symSize: 0x14 }
+  - { offsetInCU: 0x9803, offset: 0x5E4F2, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD progress]', symObjAddr: 0x8BBC, symBinAddr: 0xB0DC, symSize: 0x12 }
+  - { offsetInCU: 0x9838, offset: 0x5E527, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setProgress:]', symObjAddr: 0x8BCE, symBinAddr: 0xB0EE, symSize: 0x12 }
+  - { offsetInCU: 0x9875, offset: 0x5E564, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD activityCount]', symObjAddr: 0x8BE0, symBinAddr: 0xB100, symSize: 0x11 }
+  - { offsetInCU: 0x98AA, offset: 0x5E599, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setActivityCount:]', symObjAddr: 0x8BF1, symBinAddr: 0xB111, symSize: 0x11 }
+  - { offsetInCU: 0x98E7, offset: 0x5E5D6, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD setHapticGenerator:]', symObjAddr: 0x8C02, symBinAddr: 0xB122, symSize: 0x14 }
+  - { offsetInCU: 0x9926, offset: 0x5E615, size: 0x8, addend: 0x0, symName: '-[SVProgressHUD .cxx_destruct]', symObjAddr: 0x8C16, symBinAddr: 0xB136, symSize: 0x19A }
+  - { offsetInCU: 0x27, offset: 0x5F024, size: 0x8, addend: 0x0, symName: '-[SVRadialGradientLayer drawInContext:]', symObjAddr: 0x0, symBinAddr: 0xB2D0, symSize: 0x173 }
+  - { offsetInCU: 0x69, offset: 0x5F066, size: 0x8, addend: 0x0, symName: '-[SVRadialGradientLayer drawInContext:]', symObjAddr: 0x0, symBinAddr: 0xB2D0, symSize: 0x173 }
+  - { offsetInCU: 0x296, offset: 0x5F293, size: 0x8, addend: 0x0, symName: '-[SVRadialGradientLayer gradientCenter]', symObjAddr: 0x173, symBinAddr: 0xB443, symSize: 0x18 }
+  - { offsetInCU: 0x2CB, offset: 0x5F2C8, size: 0x8, addend: 0x0, symName: '-[SVRadialGradientLayer setGradientCenter:]', symObjAddr: 0x18B, symBinAddr: 0xB45B, symSize: 0x18 }
+  - { offsetInCU: 0x27, offset: 0x5F371, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView willMoveToSuperview:]', symObjAddr: 0x0, symBinAddr: 0xB473, symSize: 0x51 }
+  - { offsetInCU: 0xD9, offset: 0x5F423, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView willMoveToSuperview:]', symObjAddr: 0x0, symBinAddr: 0xB473, symSize: 0x51 }
+  - { offsetInCU: 0x148, offset: 0x5F492, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView layoutSubviews]', symObjAddr: 0x51, symBinAddr: 0xB4C4, symSize: 0x41 }
+  - { offsetInCU: 0x18F, offset: 0x5F4D9, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView layoutAnimatedLayer]', symObjAddr: 0x92, symBinAddr: 0xB505, symSize: 0x305 }
+  - { offsetInCU: 0x35B, offset: 0x5F6A5, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView indefiniteAnimatedLayer]', symObjAddr: 0x397, symBinAddr: 0xB80A, symSize: 0x75F }
+  - { offsetInCU: 0x9D5, offset: 0x5FD1F, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView setFrame:]', symObjAddr: 0xAF6, symBinAddr: 0xBF69, symSize: 0xDA }
+  - { offsetInCU: 0xA6F, offset: 0x5FDB9, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView setRadius:]', symObjAddr: 0xBD0, symBinAddr: 0xC043, symSize: 0x9D }
+  - { offsetInCU: 0xAF6, offset: 0x5FE40, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView setStrokeColor:]', symObjAddr: 0xC6D, symBinAddr: 0xC0E0, symSize: 0x75 }
+  - { offsetInCU: 0xB79, offset: 0x5FEC3, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView setStrokeThickness:]', symObjAddr: 0xCE2, symBinAddr: 0xC155, symSize: 0x29 }
+  - { offsetInCU: 0xC05, offset: 0x5FF4F, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView sizeThatFits:]', symObjAddr: 0xD0B, symBinAddr: 0xC17E, symSize: 0x97 }
+  - { offsetInCU: 0xCCA, offset: 0x60014, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView strokeThickness]', symObjAddr: 0xDA2, symBinAddr: 0xC215, symSize: 0x12 }
+  - { offsetInCU: 0xCFF, offset: 0x60049, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView radius]', symObjAddr: 0xDB4, symBinAddr: 0xC227, symSize: 0x12 }
+  - { offsetInCU: 0xD34, offset: 0x6007E, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView strokeColor]', symObjAddr: 0xDC6, symBinAddr: 0xC239, symSize: 0x11 }
+  - { offsetInCU: 0xD69, offset: 0x600B3, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView setIndefiniteAnimatedLayer:]', symObjAddr: 0xDD7, symBinAddr: 0xC24A, symSize: 0x14 }
+  - { offsetInCU: 0xDA8, offset: 0x600F2, size: 0x8, addend: 0x0, symName: '-[SVIndefiniteAnimatedView .cxx_destruct]', symObjAddr: 0xDEB, symBinAddr: 0xC25E, symSize: 0x31 }
+  - { offsetInCU: 0x27, offset: 0x6018C, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView willMoveToSuperview:]', symObjAddr: 0x0, symBinAddr: 0xC28F, symSize: 0x51 }
+  - { offsetInCU: 0xE6, offset: 0x6024B, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView willMoveToSuperview:]', symObjAddr: 0x0, symBinAddr: 0xC28F, symSize: 0x51 }
+  - { offsetInCU: 0x155, offset: 0x602BA, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView layoutAnimatedLayer]', symObjAddr: 0x51, symBinAddr: 0xC2E0, symSize: 0x2DF }
+  - { offsetInCU: 0x309, offset: 0x6046E, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView ringAnimatedLayer]', symObjAddr: 0x330, symBinAddr: 0xC5BF, symSize: 0x2AF }
+  - { offsetInCU: 0x55E, offset: 0x606C3, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView setFrame:]', symObjAddr: 0x5DF, symBinAddr: 0xC86E, symSize: 0xDA }
+  - { offsetInCU: 0x5F8, offset: 0x6075D, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView setRadius:]', symObjAddr: 0x6B9, symBinAddr: 0xC948, symSize: 0x9D }
+  - { offsetInCU: 0x67F, offset: 0x607E4, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView setStrokeColor:]', symObjAddr: 0x756, symBinAddr: 0xC9E5, symSize: 0x75 }
+  - { offsetInCU: 0x702, offset: 0x60867, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView setStrokeThickness:]', symObjAddr: 0x7CB, symBinAddr: 0xCA5A, symSize: 0x29 }
+  - { offsetInCU: 0x758, offset: 0x608BD, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView setStrokeEnd:]', symObjAddr: 0x7F4, symBinAddr: 0xCA83, symSize: 0x29 }
+  - { offsetInCU: 0x7E4, offset: 0x60949, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView sizeThatFits:]', symObjAddr: 0x81D, symBinAddr: 0xCAAC, symSize: 0x97 }
+  - { offsetInCU: 0x8A9, offset: 0x60A0E, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView radius]', symObjAddr: 0x8B4, symBinAddr: 0xCB43, symSize: 0x12 }
+  - { offsetInCU: 0x8DE, offset: 0x60A43, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView strokeThickness]', symObjAddr: 0x8C6, symBinAddr: 0xCB55, symSize: 0x12 }
+  - { offsetInCU: 0x913, offset: 0x60A78, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView strokeColor]', symObjAddr: 0x8D8, symBinAddr: 0xCB67, symSize: 0x11 }
+  - { offsetInCU: 0x948, offset: 0x60AAD, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView strokeEnd]', symObjAddr: 0x8E9, symBinAddr: 0xCB78, symSize: 0x12 }
+  - { offsetInCU: 0x97D, offset: 0x60AE2, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView setRingAnimatedLayer:]', symObjAddr: 0x8FB, symBinAddr: 0xCB8A, symSize: 0x14 }
+  - { offsetInCU: 0x9BC, offset: 0x60B21, size: 0x8, addend: 0x0, symName: '-[SVProgressAnimatedView .cxx_destruct]', symObjAddr: 0x90F, symBinAddr: 0xCB9E, symSize: 0x31 }
+...

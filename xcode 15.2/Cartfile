@@ -1,0 +1,28 @@
+# Networking
+ 
+# github "Alamofire/Alamofire" "5.5.0"
+
+# DI
+
+# github "Swinject/Swinject" "2.8.1"
+# github "Swinject/SwinjectAutoregistration" "2.8.1"
+
+# UI
+
+# github "Raizlabs/BonMot"
+# github "hyperoslo/Hue" ~> 5.0.1
+# github "MatiBot/MBCircularProgressBar" "master"
+# github "SnapKit/SnapKit" ~> 5.0.1
+# github "SVProgressHUD/SVProgressHUD" ~> 2.2
+github "TTTAttributedLabel/TTTAttributedLabel" ~> 2.0
+
+# Utilities
+
+# github "kishikawakatsumi/KeychainAccess" ~> 4.2.2
+
+# Others
+
+# github "krzysztofzablocki/Difference" "master"
+# github "manGoweb/SpecTools" ~> 1.1.4
+# github "AliSoftware/OHHTTPStubs" ~> 8.0.0
+# github "alanzeino/ios-snapshot-test-case" ~> 6.0
