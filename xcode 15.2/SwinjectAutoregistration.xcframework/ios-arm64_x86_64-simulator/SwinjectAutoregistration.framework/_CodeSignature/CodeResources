@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		qzsAjm1lX1AuhXilIGO0MmeRO/8=
+		ibeUnKERaeoMVNg21DZeXxTGPCk=
 		</data>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Gls0Ls4CFyKJXoW88tkffE4d69k=
+		vAwWwj2Cw+KIjaHm6ZyBtWU2+dw=
 		</data>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		j1vghExaaNbvvOsX5jC16BGHGVE=
+		3HWEXT5BZjs7z4jKte4UE3BAcB4=
 		</data>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C2hXtNnmUh1YWH0j04sFL5x66Mw=
+		oGQpWY5sJMROnMw5gT0s4lUakSs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qzsAjm1lX1AuhXilIGO0MmeRO/8=
+			ibeUnKERaeoMVNg21DZeXxTGPCk=
 			</data>
 			<key>hash2</key>
 			<data>
-			KYv1Te+bkjjrKPyTXoTFdkqBgZUfzvV0CwvhkOjzLUY=
+			BED7UV/dWFzn0PsmnU0JsUuWaiSXFYEqS4kn1U3Tl5c=
 			</data>
 		</dict>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gls0Ls4CFyKJXoW88tkffE4d69k=
+			vAwWwj2Cw+KIjaHm6ZyBtWU2+dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJ2sJnz0gFLZ9J8AWcVbW7LQ6O6BiwQ8FPXJ5SKmmgM=
+			ohL64lRVexDDbB/lgjUEquWh8gddMTzLz130yH9qmc8=
 			</data>
 		</dict>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j1vghExaaNbvvOsX5jC16BGHGVE=
+			3HWEXT5BZjs7z4jKte4UE3BAcB4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8y72vNrMxoHwsyyFeciwGxo15B6jEEqYHPlu3ctACcI=
+			cWcGqJ8Y4I4WaJnIONRUjQmJTQ6oR7f7REmOhsOAEWk=
 			</data>
 		</dict>
 		<key>Modules/SwinjectAutoregistration.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C2hXtNnmUh1YWH0j04sFL5x66Mw=
+			oGQpWY5sJMROnMw5gT0s4lUakSs=
 			</data>
 			<key>hash2</key>
 			<data>
-			6dBH5xhOO2eRnarvCdiHW2/PE/XTvUhkdVLxBKa/D30=
+			fPndkPP5aTcxLR/a80OIRoSCOUpOy2E/AnHckkN/Qqg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

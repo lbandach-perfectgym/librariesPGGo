@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Swinject.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		g2YzU5rD06baC583SjUE/QjhGn8=
+		dCp5fxH3MbqknxUpH+v0T9rYy+8=
 		</data>
 		<key>Modules/Swinject.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AO4A094am4rH0T5s8sjGFcd1oaA=
+		vHeO63oIFin0ua0QxzbDBOxumBM=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -97,22 +97,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g2YzU5rD06baC583SjUE/QjhGn8=
+			dCp5fxH3MbqknxUpH+v0T9rYy+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			zeNrMu2/db1ACSqJqr1YlddF17OlaxqJhZ4o34NP4aU=
+			85BRTb8gWRGcX3x4FRXMgnlE1CbRNCLWONLCGNvwv38=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AO4A094am4rH0T5s8sjGFcd1oaA=
+			vHeO63oIFin0ua0QxzbDBOxumBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			B+6PCpvIESAiv5btrhHbsh/WCBmprQ5XXN+AyDJ6/1g=
+			BWt7Hwx78p0/UO7cXBXoeZSAAihljhf4ZKC+kMhLKzs=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

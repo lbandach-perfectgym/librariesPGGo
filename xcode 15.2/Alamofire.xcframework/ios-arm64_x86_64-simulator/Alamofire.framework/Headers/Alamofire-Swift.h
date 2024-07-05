@@ -320,11 +320,22 @@ SWIFT_CLASS("_TtC9Alamofire15SessionDelegate")
 - (void)URLSession:(NSURLSession * _Nonnull)session didBecomeInvalidWithError:(NSError * _Nullable)error;
 @end
 
-@class NSURLSessionDataTask;
+@class NSURLSessionWebSocketTask;
+@class NSString;
 @class NSData;
+
+SWIFT_AVAILABILITY(watchos,introduced=6) SWIFT_AVAILABILITY(tvos,introduced=13) SWIFT_AVAILABILITY(ios,introduced=13) SWIFT_AVAILABILITY(macos,introduced=10.15)
+@interface SessionDelegate (SWIFT_EXTENSION(Alamofire)) <NSURLSessionWebSocketDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didOpenWithProtocol:(NSString * _Nullable)protocol;
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didCloseWithCode:(NSURLSessionWebSocketCloseCode)closeCode reason:(NSData * _Nullable)reason;
+@end
+
+@class NSURLSessionDataTask;
+@class NSURLResponse;
 @class NSCachedURLResponse;
 
 @interface SessionDelegate (SWIFT_EXTENSION(Alamofire)) <NSURLSessionDataDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session dataTask:(NSURLSessionDataTask * _Nonnull)dataTask didReceiveResponse:(NSURLResponse * _Nonnull)response completionHandler:(void (^ _Nonnull)(NSURLSessionResponseDisposition))completionHandler;
 - (void)URLSession:(NSURLSession * _Nonnull)session dataTask:(NSURLSessionDataTask * _Nonnull)dataTask didReceiveData:(NSData * _Nonnull)data;
 - (void)URLSession:(NSURLSession * _Nonnull)session dataTask:(NSURLSessionDataTask * _Nonnull)dataTask willCacheResponse:(NSCachedURLResponse * _Nonnull)proposedResponse completionHandler:(void (^ _Nonnull)(NSCachedURLResponse * _Nullable))completionHandler;
 @end
@@ -688,11 +699,22 @@ SWIFT_CLASS("_TtC9Alamofire15SessionDelegate")
 - (void)URLSession:(NSURLSession * _Nonnull)session didBecomeInvalidWithError:(NSError * _Nullable)error;
 @end
 
-@class NSURLSessionDataTask;
+@class NSURLSessionWebSocketTask;
+@class NSString;
 @class NSData;
+
+SWIFT_AVAILABILITY(watchos,introduced=6) SWIFT_AVAILABILITY(tvos,introduced=13) SWIFT_AVAILABILITY(ios,introduced=13) SWIFT_AVAILABILITY(macos,introduced=10.15)
+@interface SessionDelegate (SWIFT_EXTENSION(Alamofire)) <NSURLSessionWebSocketDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didOpenWithProtocol:(NSString * _Nullable)protocol;
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didCloseWithCode:(NSURLSessionWebSocketCloseCode)closeCode reason:(NSData * _Nullable)reason;
+@end
+
+@class NSURLSessionDataTask;
+@class NSURLResponse;
 @class NSCachedURLResponse;
 
 @interface SessionDelegate (SWIFT_EXTENSION(Alamofire)) <NSURLSessionDataDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session dataTask:(NSURLSessionDataTask * _Nonnull)dataTask didReceiveResponse:(NSURLResponse * _Nonnull)response completionHandler:(void (^ _Nonnull)(NSURLSessionResponseDisposition))completionHandler;
 - (void)URLSession:(NSURLSession * _Nonnull)session dataTask:(NSURLSessionDataTask * _Nonnull)dataTask didReceiveData:(NSData * _Nonnull)data;
 - (void)URLSession:(NSURLSession * _Nonnull)session dataTask:(NSURLSessionDataTask * _Nonnull)dataTask willCacheResponse:(NSCachedURLResponse * _Nonnull)proposedResponse completionHandler:(void (^ _Nonnull)(NSCachedURLResponse * _Nullable))completionHandler;
 @end
