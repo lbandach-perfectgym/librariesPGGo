@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/user/Library/Caches/org.carthage.CarthageKit/DerivedData/16.0_16A242d/KeychainAccess/v4.2.2/Build/Intermediates.noindex/ArchiveIntermediates/KeychainAccess/BuildProductsPath/Release-iphoneos/KeychainAccess.framework/KeychainAccess'
+relocations:     []
+...

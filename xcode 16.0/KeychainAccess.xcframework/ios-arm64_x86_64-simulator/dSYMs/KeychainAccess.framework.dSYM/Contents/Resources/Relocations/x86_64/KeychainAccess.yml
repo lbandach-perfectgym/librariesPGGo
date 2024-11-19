@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/user/Library/Caches/org.carthage.CarthageKit/DerivedData/16.0_16A242d/KeychainAccess/v4.2.2/Build/Products/Release-iphonesimulator/KeychainAccess.framework/KeychainAccess'
+relocations:     []
+...
